@@ -1,7 +1,7 @@
 ﻿using Application.Dtos.Tag;
 using Application.Parameters;
 using Application.Respository;
-using Bus;
+
 using Core.Events;
 using DD.Core.Pagination;
 using MediatR;
